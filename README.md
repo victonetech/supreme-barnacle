@@ -1,5 +1,5 @@
 # supreme-barnacle
-Simple pythone code for calculator
+Simple python code for calculator
 
 # Program make a simple calculator
 
